@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hiker\'s Watch</string>
+    <string name="start_updates">START LOCATION UPDATES</string>
+    <string name="stop_updates">STOP LOCATION UPDATES</string>
+    <string name="get_last_location">GET LAST LOCATION</string>
+    <string name="location_updates_will_be_received_only_when_app_is_foreground">Location updates will be received only when app is foreground.</string>
+</resources>
+
